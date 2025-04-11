@@ -1,6 +1,6 @@
 # Mango Music 🎵
 
-A sleek, modern web-based music player inspired by Apple Music, built with HTML, CSS, and vanilla JavaScript.
+A sleek, modern web-based clone of Apple Music's Web Player, built with HTML, CSS, and vanilla JavaScript.
 
 ![Mango Music Screenshot](./src/img/Project.png)
 
@@ -128,4 +128,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-Built with ❤️ by [Your Name]
+Built by [NamanOG]
