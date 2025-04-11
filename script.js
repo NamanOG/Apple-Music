@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // My music collection
     let songs = [
         {
-            title: 'Flashing Lights',
+            title: 'Reflections Laughing',
             artist: 'The Weeknd',
             file: './src/music/weeknd.mp3',
             image: './src/img/weeknd.png'
